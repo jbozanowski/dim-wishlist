@@ -2,7 +2,7 @@ title:fxr's personal wishlist
 
 
 // CALUS Mini-Tool
-//notes:Looking for main PvE roll work in progress. Need to test if Slideways viable here, otherwise Threat Detector should be a safe bet. Enhanced intrinsic: stability (most likely). | tags:controller,pve
+//notes:Looking for main PvE roll work in progress. Basing on Incandescent. Need to test if Slideways viable here, otherwise Threat Detector should be a safe bet. Grave robber seems like a decent alternative, as well. Enhanced intrinsic: stability (most likely). | tags:controller,pve
 dimwishlist:item=2490988246&perks=1482024992,106909392,2396422520,2675184851
 dimwishlist:item=2490988246&perks=1482024992,106909392,494941759,2675184851
 dimwishlist:item=2490988246&perks=4090651448,106909392,2396422520,2675184851
@@ -11,6 +11,9 @@ dimwishlist:item=2490988246&perks=1482024992,3230963543,2396422520,2675184851
 dimwishlist:item=2490988246&perks=1482024992,3230963543,494941759,2675184851
 dimwishlist:item=2490988246&perks=4090651448,106909392,494941759,2675184851
 dimwishlist:item=2490988246&perks=4090651448,3230963543,494941759,2675184851
+dimwishlist:item=2490988246&perks=1482024992,3230963543,1631667848,2675184851
+dimwishlist:item=2490988246&perks=4090651448,106909392,1631667848,2675184851
+dimwishlist:item=2490988246&perks=4090651448,3230963543,1631667848,2675184851
 
 // Strident Whistle
 //notes:Really quick initial look to minimize draw time at little cost to accuracy. MW: Draw Time. | tags:controller,pve

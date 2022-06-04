@@ -15,6 +15,17 @@ dimwishlist:item=2490988246&perks=1482024992,3230963543,1631667848,2675184851
 dimwishlist:item=2490988246&perks=4090651448,106909392,1631667848,2675184851
 dimwishlist:item=2490988246&perks=4090651448,3230963543,1631667848,2675184851
 
+
+// Austringer
+//notes:Main PvE roll WiP, so just Outlaw + Rampage. Mostly aiming for stability bump, or a touch of handling more for snappier ADS. MW/EI: Stability. Mod: Rampage Spec. | tags:controller,pve
+dimwishlist:item=3055790362&perks=1392496348,679225683,1168162263,3425386926
+dimwishlist:item=3055790362&perks=1392496348,1561002382,1168162263,3425386926
+dimwishlist:item=3055790362&perks=1392496348,1968497646,1168162263,3425386926
+dimwishlist:item=3055790362&perks=1482024992,3230963543,1168162263,3425386926
+dimwishlist:item=3055790362&perks=1482024992,1885400500,1168162263,3425386926
+dimwishlist:item=3055790362&perks=1482024992,1561002382,1168162263,3425386926
+
+
 // Strident Whistle
 //notes:Really quick initial look to minimize draw time at little cost to accuracy. MW: Draw Time. | tags:controller,pve
 dimwishlist:item=2591241074&perks=852209214,3827198035,201365942,2848615171

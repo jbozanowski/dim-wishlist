@@ -1,8 +1,14 @@
 title:fxr's personal wishlist
 
+// IKELOS_SG_1.0.3
+//notes:PvE roll WiP. MW: Range? | tags:controller,pve
+dimwishlist:item=1168625549&perks=1047830412,106909392,4245865861,2675184851
+
+
 // Disparity
 //notes:PvE roll WiP. MW: Stability | tags:controller,pve
 dimwishlist:item=1751893422&perks=839105230,3230963543,1347741687,1171887445,192157151
+
 
 // CALUS Mini-Tool
 //notes:Looking for main PvE roll work in progress. Basing on Incandescent. Need to test if Slideways viable here, otherwise Threat Detector should be a safe bet. Grave robber seems like a decent alternative, as well. Enhanced intrinsic: stability (most likely). | tags:controller,pve

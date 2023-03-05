@@ -1,5 +1,13 @@
 title:fxr's personal wishlist
 
+// Volta Bracket
+//notes:PvE first pass. Pretty much single-use: DPS w/ Cascade Point? Boost Handling as much as possible for ease of use, but maybe need to swap that for Stability. No other ideas for now. MW: Handling/Stability? | tags:pve,controller
+dimwishlist:item=3920310144&perks=1840239774,106909392,3400784728,831391274
+dimwishlist:item=3920310144&perks=839105230,106909392,3400784728,831391274
+dimwishlist:item=3920310144&perks=1840239774,106909392,968510818,831391274
+dimwishlist:item=3920310144&perks=839105230,106909392,968510818,831391274
+
+
 // Round Robin
 //notes:PvE first pass. MW: Reload/Handling | tags:pve,controller
 dimwishlist:item=2034215657&perks=1482024992,1885400500,1820235745,831391274

@@ -1,5 +1,14 @@
 title:fxr's personal wishlist
 
+// Blast Furnace
+//notes:PvP, aiming for feeling good passively. Handling MW | tags:pvp,controller
+dimwishlist:item=2372514508&perks=1840239774,3230963543,957782887,247725512
+dimwishlist:item=2372514508&perks=4090651448,3230963543,957782887,247725512
+dimwishlist:item=2372514508&perks=1482024992,3230963543,957782887,247725512
+dimwishlist:item=2372514508&perks=1840239774,3230963543,460017080,247725512
+dimwishlist:item=2372514508&perks=1840239774,3142289711,460017080,247725512
+
+
 // Royal Executioner
 //notes:PvE first pass. Looks like we can either bully majors w/ Successful Warmup (and some reload perks in 3rd column), pretending it's a Rapid frame, or try to set things on fire w/ Reservoir Burst or Incandescent (but then it's slow charge time...) Not sure what will feel best yet. | tags:pve,controller
 dimwishlist:item=1720503118&perks=4090651448,1687452232,1556840489,2652708987
